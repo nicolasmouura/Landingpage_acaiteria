@@ -1,0 +1,245 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.fita{
+    background-color: black;
+    width: 1872px;
+    height: 5px;
+}
+
+.fita2{
+    background-color: black;
+    width: 1872px;
+    height: 5px;
+}
+
+.info_cabecalho{
+    background-color: #3B0050;
+    width: 1872px;
+    height: 220px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    padding: 20px 3%;
+}
+
+.cabecalho_image{
+    width: 50%;
+
+}
+.cabecalho_texto{
+    width: 50%;
+}
+
+.cabecalho_texto a{
+    font-size: 32.5px;
+    padding: 10px 2%;
+    color: #F6F6F6;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 40px;
+    font-family: "Honk", system-ui;
+}
+
+.cabecalho_texto ul{
+    margin-top: 60px;
+    margin-left: 15px;
+}
+
+.main1{
+    height: 600px;
+    display: flex;
+    justify-content: space-between;  
+    background-color: #F6F6F6; 
+}
+
+.main1_text{
+    margin: 10px 5%;
+    background-color: #F6F6F6;
+    color: black;
+    align-content: center;
+    align-items: center;
+    
+}
+
+.main1_text h1{
+    margin-top: 10px;
+    color: black;
+    text-align: left;
+    font-size: 80px;
+    font-family: "Honk", system-ui;
+}
+
+.main1_text p{
+    margin-top: 15px;
+    color: #3B0050;
+    font-size: 25px;
+    font-family: "Madimi One", sans-serif;
+
+}
+
+.order_acai{
+    background-color: #3B0050 ;
+    height: 840px;
+}
+
+.titulo_main2 h1{
+    font-family: "Honk", system-ui;
+    font-size: 60px;
+    margin-left: 580px;
+    padding: 30px;
+}
+
+
+.titulo_main2 h2{
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 40px;
+    color: #F6F6F6;
+    margin-top: 80px;
+    margin-left: 750px;
+}
+
+.produtos{
+    font-family: "Oswald", sans-serif;
+    color: #F6F6F6;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 150px 8%;
+}
+
+summary{
+    color: burlywood;
+}
+
+.acai1 h2{
+    margin-left: 45px;
+
+}
+
+.acai2 h2{
+    margin-left: 70px;
+
+}
+
+.acai3 h2{
+    margin-left: 50px;
+
+}
+
+.acai4 h2{
+    margin-left: 65px;
+
+}
+
+.acai5 h2{
+    margin-left: 80px;
+
+}
+
+.produtos2{
+    height: 425px;
+    background-color: #3B0050;
+    color: #F6F6F6;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 25px 8%;
+
+
+}
+
+.acai6 h2{
+    margin-left: 75px;
+
+}
+
+.acai7 h2{
+    margin-left: 70px;
+
+}
+
+.acai8 h2{
+    margin-left: 75px;
+
+}
+
+.acai9 h2{
+    margin-left: 75px;
+
+}
+
+.acai10 h2{
+    margin-left: 80px;
+
+}
+
+.main4{
+    background-color: #F6F6F6;
+    height: 600px;
+}
+
+
+.main4txt_img{
+    display: flex;
+    margin: 0 auto;
+    padding: 100px 20%;
+    
+}
+
+.main4_text h1{
+    background-color: #F6F6F6;
+    color: #3B0050;
+    font-size: 70px;
+    font-family: "Honk", system-ui;
+
+}
+
+.main1_text h2{
+    font-size: 70px;
+}
+
+.main4_text{
+    width: 50%;
+    margin-top: 50px;
+
+
+}
+
+.main4_img{
+    width:50%;
+}
+
+.footer_content{
+    background-color: #3B0050;
+    color: #F6F6F6;
+    height: 300px;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    padding: 2px 5%;
+}
+
+.social_media{
+    margin-left: 630px;
+    margin-top: 40px;
+    font-size: 40px;
+    color: #F6F6F6;
+}
+
+.social_media h1{
+    color: #F6F6F6;
+    margin-left: 20px;
+    font-family: "Honk", system-ui;
+
+}
+
+.social_media a{
+    color: #F6F6F6;
+    padding: 10px 2%;
+    text-decoration: none;
+    align-items: center;
+}
+
